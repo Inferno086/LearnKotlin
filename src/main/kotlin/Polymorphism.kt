@@ -43,6 +43,9 @@ open class Shape
     }
 
     fun roll(){}
+    fun drag() {
+        TODO("Not yet implemented")
+    }
 }
 
 class Circle(val radius : Double) : Shape()
