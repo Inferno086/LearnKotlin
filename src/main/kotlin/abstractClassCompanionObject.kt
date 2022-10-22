@@ -1,3 +1,9 @@
+/*
+A companion object is not inheritable. But it can inherit from another class or
+implement interfaces. This is one of the reasons that a companion object is
+similar to static declarations in Java and C#
+*/
+
 fun main()
 {
     // We can use functions of companion objects directly
